@@ -8,7 +8,7 @@ class Typewriter extends React.Component {
         return (
             <>
             <section>
-
+               
             </section>
             </>
         );
